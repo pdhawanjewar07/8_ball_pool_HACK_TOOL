@@ -1,2 +1,3 @@
-main_tool/node_modules
+main/node_modules
+helpers/node_modules
 setup_files
