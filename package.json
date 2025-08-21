@@ -2,7 +2,9 @@
   "name": "my-game",
   "private": true,
   "version": "0.0.0",
+  "description": "8 Ball Pool game",
   "type": "module",
+  "homepage": "https://pdhawanjewar07.github.io/8_ball_pool_HACK_TOOL",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
