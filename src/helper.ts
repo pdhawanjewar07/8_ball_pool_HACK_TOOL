@@ -33,5 +33,3 @@ export function generate8BallRackPositions(radius: number,offSetX: number,offSet
   }
   return positions;
 }
-
-console.log(generate8BallRackPositions(24, 0, 0));
